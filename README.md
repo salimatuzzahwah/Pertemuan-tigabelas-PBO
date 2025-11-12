@@ -1,6 +1,6 @@
 # Pertemuan-tigabelas-PBO
 # Langkah - langkah
-  1. Membuat database yang menampung data username dan password
+ 1. Membuat database yang menampung data username dan password
      
      <img width="408" height="92" alt="image" src="https://github.com/user-attachments/assets/d82a1776-2c11-4fd8-9152-670488c771a2" />
 
