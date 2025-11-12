@@ -8,7 +8,7 @@
      
   2 . Membuat desain login
 
-  <img width="610" height="471" alt="Screenshot 2025-11-12 144529" src="https://github.com/user-attachments/assets/c45294ce-4424-49cf-9d8c-20665d380e4b" />
+     <img width="610" height="471" alt="Screenshot 2025-11-12 144529" src="https://github.com/user-attachments/assets/c45294ce-4424-49cf-9d8c-20665d380e4b" />
 
      
   3. Source code pada tombol masuk
@@ -17,15 +17,18 @@
      
   4 . Membuat JDialog mendaftar akun
 
-     <img width="629" height="476" alt="image" src="https://github.com/user-attachments/assets/346d4277-fdfc-4743-87d9-1d1795d6afe0" />
+     <img width="629" height="476" alt="Screenshot 2025-11-12 144828" src="https://github.com/user-attachments/assets/ac4ce59b-0f93-46e4-acee-b6d4ff6529c5" />
+
      
   5 . Source code pada tombol daftar
   
-     <img width="1136" height="910" alt="image" src="https://github.com/user-attachments/assets/ea2b10e7-088c-4a66-a74f-65c73bd89236" />
+     <img width="1136" height="910" alt="Screenshot 2025-11-12 145056" src="https://github.com/user-attachments/assets/762555ee-3f3a-4ddb-ad9c-0e663660bf7d" />
+
      
   6 . Membuat JDialog mengubah password
   
-     <img width="645" height="563" alt="image" src="https://github.com/user-attachments/assets/02acd921-61fe-4b63-a75d-8d7f2b44fdef" />
+     <img width="645" height="563" alt="Screenshot 2025-11-12 144926" src="https://github.com/user-attachments/assets/c1da38f3-1adf-4239-8f39-7eb1169420c1" />
+
      
   7. Source code pada tombol Ubah
      
